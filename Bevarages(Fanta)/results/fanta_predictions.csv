@@ -1,0 +1,337 @@
+Folder Path,Img Name,Height,Width,X1,Y1,X2,Y2,Predicted Class,class_id,Confidence (%)
+/content/drive/My Drive/Bevarages_Dset/test,test_img1.jpg,2048,2032,816.65,1024.03,906.43,1182.84,Fanta Can,2,99.57
+/content/drive/My Drive/Bevarages_Dset/test,test_img1.jpg,2048,2032,1260.62,1579.69,1447.46,2048.00,Sprite Bottle,5,99.43
+/content/drive/My Drive/Bevarages_Dset/test,test_img1.jpg,2048,2032,812.94,1561.22,956.69,2048.00,Coca Cola Bottle,3,99.36
+/content/drive/My Drive/Bevarages_Dset/test,test_img1.jpg,2048,2032,958.84,1568.36,1114.52,2048.00,Coca Cola Bottle,3,99.28
+/content/drive/My Drive/Bevarages_Dset/test,test_img1.jpg,2048,2032,1104.59,1581.04,1261.71,2048.00,Sprite Bottle,5,99.11
+/content/drive/My Drive/Bevarages_Dset/test,test_img1.jpg,2048,2032,466.16,676.51,540.17,965.90,Coca Cola Bottle,3,99.01
+/content/drive/My Drive/Bevarages_Dset/test,test_img1.jpg,2048,2032,551.13,674.83,633.36,960.91,Coca Cola Bottle,3,98.96
+/content/drive/My Drive/Bevarages_Dset/test,test_img1.jpg,2048,2032,901.03,1023.51,999.79,1186.72,Fanta Can,2,98.77
+/content/drive/My Drive/Bevarages_Dset/test,test_img1.jpg,2048,2032,636.95,672.51,711.70,957.71,Coca Cola Bottle,3,98.72
+/content/drive/My Drive/Bevarages_Dset/test,test_img1.jpg,2048,2032,883.99,1198.16,989.70,1402.04,Fanta Can,2,98.60
+/content/drive/My Drive/Bevarages_Dset/test,test_img1.jpg,2048,2032,770.09,1199.10,889.15,1403.58,Fanta Can,2,98.39
+/content/drive/My Drive/Bevarages_Dset/test,test_img1.jpg,2048,2032,997.01,1023.68,1107.82,1185.95,Fanta Can,2,98.38
+/content/drive/My Drive/Bevarages_Dset/test,test_img1.jpg,2048,2032,984.73,1190.03,1100.01,1406.48,Fanta Can,2,97.86
+/content/drive/My Drive/Bevarages_Dset/test,test_img1.jpg,2048,2032,1103.64,1017.88,1217.92,1172.10,Fanta Can,2,96.42
+/content/drive/My Drive/Bevarages_Dset/test,test_img1.jpg,2048,2032,653.23,1547.08,813.58,2048.00,Fanta 1.5L,1,95.89
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,437.61,586.89,484.43,745.44,Fanta 1.5L,1,99.73
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,494.37,582.03,539.51,748.29,Fanta 1.5L,1,99.70
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,60.93,156.62,112.14,349.36,Coca Cola Bottle,3,99.60
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,88.84,574.00,136.23,737.73,Sprite Bottle,5,99.53
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,539.64,581.38,577.98,740.19,Fanta 1.5L,1,99.53
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,251.73,777.09,302.32,949.51,Fanta 1.5L,1,99.53
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,351.37,777.99,399.58,944.80,Fanta 1.5L,1,99.52
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,398.58,771.77,449.11,946.27,Fanta 1.5L,1,99.52
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,496.03,157.67,544.79,355.17,Coca Cola Bottle,3,99.37
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,383.57,592.04,433.80,754.35,Fanta 1.5L,1,99.33
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,441.38,155.76,492.34,359.08,Coca Cola Bottle,3,99.32
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,166.22,158.83,218.61,358.11,Coca Cola Bottle,3,99.29
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,221.81,158.48,274.04,361.66,Coca Cola Bottle,3,99.29
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,161.55,775.15,207.19,931.74,Sprite Bottle,5,99.23
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,332.39,156.43,385.99,361.42,Coca Cola Bottle,3,99.18
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,111.84,158.58,162.88,354.04,Coca Cola Bottle,3,99.17
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,280.41,590.10,331.89,742.68,Sprite Bottle,5,99.16
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,181.33,585.85,230.10,744.49,Sprite Bottle,5,99.15
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,276.44,157.10,331.42,359.80,Coca Cola Bottle,3,99.12
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,547.15,157.17,595.55,352.10,Coca Cola Bottle,3,99.12
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,207.89,778.20,254.35,936.00,Sprite Bottle,5,98.89
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,97.50,379.96,145.39,556.47,Coca Cola Bottle,3,98.74
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,136.23,574.77,180.34,744.65,Sprite Bottle,5,98.62
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,115.04,771.36,162.77,927.38,Sprite Bottle,5,98.53
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,153.22,384.01,198.68,561.51,Coca Cola Bottle,3,98.52
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,228.29,588.10,279.51,741.96,Sprite Bottle,5,98.46
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,504.80,381.32,552.14,564.45,Coca Cola Bottle,3,98.43
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,385.56,161.89,437.74,357.06,Coca Cola Bottle,3,98.43
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,374.31,386.80,423.33,567.94,Coca Cola Bottle,3,98.39
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,436.93,385.38,484.64,565.50,Coca Cola Bottle,3,98.24
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,321.91,391.78,367.70,566.61,Coca Cola Bottle,3,97.87
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,331.23,591.12,382.23,742.01,Sprite Bottle,5,97.64
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,557.98,378.80,596.86,558.25,Coca Cola Bottle,3,97.59
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,267.89,392.27,313.85,566.54,Coca Cola Bottle,3,97.07
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,208.37,385.83,255.46,565.99,Coca Cola Bottle,3,96.99
+/content/drive/My Drive/Bevarages_Dset/test,test_img2.jpg,960,720,300.17,781.28,349.83,950.76,Fanta 1.5L,1,96.65
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,4.71,0.00,91.15,276.18,7up Bottle,9,99.81
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,669.29,1.57,764.01,284.78,Dew Bottle,8,99.80
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,185.34,713.39,322.70,1205.40,Marinda Bottle,10,99.79
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,317.72,717.73,448.55,1195.77,Marinda Bottle,10,99.75
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,767.19,0.47,862.97,285.53,Dew Bottle,8,99.74
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,658.38,344.19,742.69,663.50,Dew Bottle,8,99.73
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,444.42,719.46,563.07,1180.18,Marinda Bottle,10,99.69
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,687.24,724.07,811.79,1171.04,Dew Bottle,8,99.69
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,95.73,0.00,188.62,270.10,7up Bottle,9,99.69
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,866.58,0.00,951.34,293.61,Dew Bottle,8,99.65
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,564.28,718.61,685.40,1170.23,Marinda Bottle,10,99.61
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,740.27,346.82,836.39,662.47,Dew Bottle,8,99.61
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,265.45,325.45,361.88,670.56,Marinda Bottle,10,99.60
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,837.23,337.88,931.57,663.30,Dew Bottle,8,99.55
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,55.52,723.94,182.59,1190.86,7up Bottle,9,99.54
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,189.95,1.46,290.55,272.65,7up Bottle,9,99.53
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,460.55,328.74,557.01,666.71,Marinda Bottle,10,99.51
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,362.45,328.57,458.70,663.66,Marinda Bottle,10,99.46
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,286.76,0.00,388.24,283.89,Marinda Bottle,10,99.38
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,558.76,325.04,662.70,665.10,Marinda Bottle,10,99.38
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,812.28,722.57,934.15,1175.07,Dew Bottle,8,99.33
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,64.00,331.69,168.09,663.46,7up Bottle,9,99.19
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,167.59,326.69,270.43,663.03,7up Bottle,9,99.18
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,476.80,0.00,577.51,283.19,Marinda Bottle,10,99.17
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,383.62,0.00,480.46,284.28,Marinda Bottle,10,98.91
+/content/drive/My Drive/Bevarages_Dset/test,test_img3.jpg,1280,960,571.88,0.00,668.51,285.99,Marinda Bottle,10,98.71
+/content/drive/My Drive/Bevarages_Dset/test,test_img4.jpg,1280,960,703.93,649.38,814.97,1117.13,Dew Bottle,8,99.95
+/content/drive/My Drive/Bevarages_Dset/test,test_img4.jpg,1280,960,101.96,40.98,234.93,537.50,Dew Bottle,8,99.76
+/content/drive/My Drive/Bevarages_Dset/test,test_img4.jpg,1280,960,383.47,40.57,533.44,549.52,Marinda Bottle,10,99.71
+/content/drive/My Drive/Bevarages_Dset/test,test_img4.jpg,1280,960,813.99,630.50,915.16,1079.51,Pepsi Bottle,4,99.63
+/content/drive/My Drive/Bevarages_Dset/test,test_img4.jpg,1280,960,621.69,87.28,725.47,534.24,Pepsi Bottle,4,99.59
+/content/drive/My Drive/Bevarages_Dset/test,test_img4.jpg,1280,960,235.19,29.69,381.25,553.65,Marinda Bottle,10,99.56
+/content/drive/My Drive/Bevarages_Dset/test,test_img4.jpg,1280,960,257.04,631.53,413.31,1158.50,Coca Cola Bottle,3,99.55
+/content/drive/My Drive/Bevarages_Dset/test,test_img4.jpg,1280,960,728.09,90.33,834.26,527.84,Pepsi Bottle,4,99.40
+/content/drive/My Drive/Bevarages_Dset/test,test_img4.jpg,1280,960,400.78,593.49,501.69,1031.91,Coca Cola Bottle,3,99.36
+/content/drive/My Drive/Bevarages_Dset/test,test_img4.jpg,1280,960,544.42,616.30,694.96,1138.08,Coca Cola Bottle,3,99.14
+/content/drive/My Drive/Bevarages_Dset/test,test_img4.jpg,1280,960,6.56,776.92,129.35,1181.98,Sprite Bottle,5,98.14
+/content/drive/My Drive/Bevarages_Dset/test,test_img4.jpg,1280,960,129.12,746.92,265.19,1174.77,Fanta 1.5L,1,97.92
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,658.95,457.87,707.60,661.29,Dew Bottle,8,99.81
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,324.06,413.40,395.48,659.90,Dew Bottle,8,99.80
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,397.04,418.17,466.54,661.26,Dew Bottle,8,99.73
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,40.67,214.41,86.20,377.27,Fanta 500ml,0,99.69
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,173.27,213.33,221.24,375.54,Fanta 500ml,0,99.64
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,255.00,462.64,315.46,653.77,Fanta 500ml,0,99.64
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,714.46,456.64,773.57,667.01,Dew Bottle,8,99.63
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,544.79,211.43,593.66,385.33,Marinda Bottle,10,99.61
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,0.00,211.42,43.02,376.60,Fanta 500ml,0,99.53
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,128.19,210.69,176.46,374.30,Fanta 500ml,0,99.52
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,82.56,210.77,129.85,374.22,Fanta 500ml,0,99.50
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,219.63,214.66,266.34,378.10,Fanta 500ml,0,99.43
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,199.95,464.15,254.59,651.17,Fanta 500ml,0,99.40
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,734.59,209.09,773.29,391.24,Marinda Bottle,10,99.28
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,266.36,213.76,313.65,380.94,Fanta 500ml,0,99.27
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,145.32,462.62,199.36,650.43,Fanta 500ml,0,99.22
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,465.13,412.12,540.65,664.42,Marinda Bottle,10,99.21
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,132.68,46.13,173.71,113.85,Fanta Can,2,99.08
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,593.97,210.36,642.60,386.29,Marinda Bottle,10,98.83
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,406.82,211.03,453.29,386.94,Marinda Bottle,10,98.82
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,498.45,207.73,546.62,388.41,Marinda Bottle,10,98.82
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,314.96,208.83,362.61,382.43,Marinda Bottle,10,98.66
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,452.20,209.23,499.06,386.97,Marinda Bottle,10,98.57
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,360.94,209.02,407.01,385.04,Marinda Bottle,10,98.51
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,50.98,43.33,95.56,111.39,Fanta Can,2,98.50
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,134.86,110.09,174.01,179.63,Fanta Can,2,98.48
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,74.17,806.30,192.80,912.34,Fanta Carton-Can,7,98.47
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,639.16,210.55,688.77,385.57,Marinda Bottle,10,98.24
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,686.91,211.82,735.36,385.80,Marinda Bottle,10,98.14
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,92.98,43.43,132.43,113.13,Fanta Can,2,98.05
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,13.82,422.66,79.73,660.57,Fanta 1.5L,1,97.92
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,58.61,108.45,96.46,179.60,Fanta Can,2,97.86
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,96.95,109.87,137.21,178.43,Fanta Can,2,97.71
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,598.05,456.80,657.01,668.84,Marinda Bottle,10,97.47
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,187.13,815.64,314.70,922.95,Fanta Carton-Can,7,95.89
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,538.70,452.93,599.03,668.49,Marinda Bottle,10,94.69
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,64.36,702.51,193.36,819.87,Fanta Carton-Can,7,94.61
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,77.59,427.42,144.49,659.32,Fanta 1.5L,1,94.06
+/content/drive/My Drive/Bevarages_Dset/test,test_img5.jpg,1032,774,185.60,705.54,312.63,828.03,Fanta Carton-Can,7,84.10
+/content/drive/My Drive/Bevarages_Dset/test,test_img6.jpg,732,809,213.91,512.70,265.46,707.87,Dew Bottle,8,99.76
+/content/drive/My Drive/Bevarages_Dset/test,test_img6.jpg,732,809,265.23,516.55,321.34,703.11,Sprite Bottle,5,99.68
+/content/drive/My Drive/Bevarages_Dset/test,test_img6.jpg,732,809,755.96,492.81,809.00,700.77,Dew Bottle,8,99.65
+/content/drive/My Drive/Bevarages_Dset/test,test_img6.jpg,732,809,37.95,513.24,91.87,712.37,7up Bottle,9,99.62
+/content/drive/My Drive/Bevarages_Dset/test,test_img6.jpg,732,809,321.90,515.24,378.27,701.27,Sprite Bottle,5,99.58
+/content/drive/My Drive/Bevarages_Dset/test,test_img6.jpg,732,809,95.61,516.25,154.31,712.44,Marinda Bottle,10,99.53
+/content/drive/My Drive/Bevarages_Dset/test,test_img6.jpg,732,809,584.01,484.76,638.99,698.85,Pepsi Bottle,4,99.50
+/content/drive/My Drive/Bevarages_Dset/test,test_img6.jpg,732,809,534.26,520.41,587.09,708.02,Fanta 1.5L,1,99.41
+/content/drive/My Drive/Bevarages_Dset/test,test_img6.jpg,732,809,477.40,517.57,534.61,706.11,Fanta 1.5L,1,99.27
+/content/drive/My Drive/Bevarages_Dset/test,test_img6.jpg,732,809,380.48,515.91,432.14,703.16,Coca Cola Bottle,3,99.24
+/content/drive/My Drive/Bevarages_Dset/test,test_img6.jpg,732,809,154.76,510.99,208.20,712.26,Dew Bottle,8,99.23
+/content/drive/My Drive/Bevarages_Dset/test,test_img6.jpg,732,809,696.81,485.39,756.63,706.85,Marinda Bottle,10,99.15
+/content/drive/My Drive/Bevarages_Dset/test,test_img6.jpg,732,809,431.21,516.28,472.95,696.10,Coca Cola Bottle,3,99.00
+/content/drive/My Drive/Bevarages_Dset/test,test_img6.jpg,732,809,640.87,482.89,697.18,700.86,Pepsi Bottle,4,98.58
+/content/drive/My Drive/Bevarages_Dset/test,test_img7.jpeg,1152,864,640.05,229.22,724.79,474.99,Fanta 500ml,0,99.84
+/content/drive/My Drive/Bevarages_Dset/test,test_img7.jpeg,1152,864,614.24,606.74,725.69,976.13,Fanta 1.5L,1,99.77
+/content/drive/My Drive/Bevarages_Dset/test,test_img7.jpeg,1152,864,509.26,616.15,609.30,958.33,Sprite Bottle,5,99.64
+/content/drive/My Drive/Bevarages_Dset/test,test_img7.jpeg,1152,864,136.02,224.03,233.34,491.80,Coca Cola Bottle,3,99.54
+/content/drive/My Drive/Bevarages_Dset/test,test_img7.jpeg,1152,864,396.02,222.37,479.92,467.32,Sprite Bottle,5,99.51
+/content/drive/My Drive/Bevarages_Dset/test,test_img7.jpeg,1152,864,283.16,620.34,383.00,969.42,Coca Cola Bottle,3,99.43
+/content/drive/My Drive/Bevarages_Dset/test,test_img7.jpeg,1152,864,154.21,617.41,265.86,965.31,Coca Cola Bottle,3,99.41
+/content/drive/My Drive/Bevarages_Dset/test,test_img7.jpeg,1152,864,388.35,614.29,492.97,966.44,Coca Cola Bottle,3,99.40
+/content/drive/My Drive/Bevarages_Dset/test,test_img7.jpeg,1152,864,313.59,221.95,392.07,485.60,Coca Cola Bottle,3,99.28
+/content/drive/My Drive/Bevarages_Dset/test,test_img7.jpeg,1152,864,565.56,219.70,636.47,474.67,Sprite Bottle,5,99.00
+/content/drive/My Drive/Bevarages_Dset/test,test_img7.jpeg,1152,864,234.24,225.65,310.82,476.92,Coca Cola Bottle,3,98.98
+/content/drive/My Drive/Bevarages_Dset/test,test_img7.jpeg,1152,864,479.49,224.82,564.17,468.75,Sprite Bottle,5,98.75
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,185.06,751.82,239.61,934.79,Fanta 500ml,0,99.66
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,365.05,37.93,420.02,249.81,Sprite Bottle,5,99.62
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,588.50,41.12,640.48,249.34,Sprite Bottle,5,99.59
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,129.75,751.59,185.27,934.43,Fanta 500ml,0,99.58
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,236.18,278.35,288.37,489.57,Dew Bottle,8,99.56
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,351.31,276.31,405.31,493.54,Dew Bottle,8,99.55
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,173.84,269.23,229.97,488.99,Dew Bottle,8,99.53
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,477.04,41.23,529.86,249.17,Sprite Bottle,5,99.50
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,73.28,751.30,131.36,942.98,Fanta 500ml,0,99.48
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,299.45,753.92,357.11,936.89,Fanta 500ml,0,99.46
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,305.66,36.82,364.72,250.52,Sprite Bottle,5,99.44
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,420.24,41.29,475.21,250.18,Sprite Bottle,5,99.44
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,18.69,750.89,76.49,942.40,Fanta 500ml,0,99.39
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,237.05,748.70,298.30,937.85,Fanta 500ml,0,99.38
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,296.03,276.78,345.54,489.14,Dew Bottle,8,99.36
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,202.35,33.05,247.37,249.87,Coca Cola Bottle,3,99.33
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,90.36,514.92,143.39,714.36,Coca Cola Bottle,3,99.30
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,114.91,276.77,172.17,483.36,Coca Cola Bottle,3,99.25
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,31.88,38.51,85.74,247.95,Coca Cola Bottle,3,99.23
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,149.26,512.88,203.84,718.94,Coca Cola Bottle,3,99.20
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,5.72,277.13,63.95,487.20,Coca Cola Bottle,3,99.19
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,34.98,514.45,88.22,719.10,Coca Cola Bottle,3,99.19
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,146.83,38.45,197.91,249.23,Coca Cola Bottle,3,99.13
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,533.25,42.29,586.65,251.77,Sprite Bottle,5,99.07
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,89.02,37.25,143.39,247.13,Coca Cola Bottle,3,99.05
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,207.08,515.34,255.84,717.08,Coca Cola Bottle,3,98.99
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,69.54,280.11,117.53,486.91,Coca Cola Bottle,3,98.98
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,631.62,285.05,684.31,489.09,Coca Cola Bottle,3,98.59
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,0.00,42.70,29.46,249.45,Coca Cola Bottle,3,93.65
+/content/drive/My Drive/Bevarages_Dset/test,test_img8.jpeg,980,704,0.00,510.36,30.66,721.36,Coca Cola Bottle,3,92.27
+/content/drive/My Drive/Bevarages_Dset/test,test_img11.jpeg,614,1280,496.82,150.64,563.49,416.19,Marinda Bottle,10,99.60
+/content/drive/My Drive/Bevarages_Dset/test,test_img11.jpeg,614,1280,563.26,149.96,630.89,421.25,Marinda Bottle,10,99.58
+/content/drive/My Drive/Bevarages_Dset/test,test_img11.jpeg,614,1280,7.03,151.57,79.92,412.78,Dew Bottle,8,99.55
+/content/drive/My Drive/Bevarages_Dset/test,test_img11.jpeg,614,1280,426.45,147.12,497.97,419.35,Marinda Bottle,10,99.49
+/content/drive/My Drive/Bevarages_Dset/test,test_img11.jpeg,614,1280,986.72,153.03,1059.77,414.37,Coca Cola Bottle,3,99.46
+/content/drive/My Drive/Bevarages_Dset/test,test_img11.jpeg,614,1280,1062.06,153.89,1131.43,418.74,Coca Cola Bottle,3,99.39
+/content/drive/My Drive/Bevarages_Dset/test,test_img11.jpeg,614,1280,1214.24,154.18,1277.69,419.76,Coca Cola Bottle,3,99.31
+/content/drive/My Drive/Bevarages_Dset/test,test_img11.jpeg,614,1280,836.16,146.90,907.08,414.43,Pepsi Bottle,4,99.07
+/content/drive/My Drive/Bevarages_Dset/test,test_img11.jpeg,614,1280,912.32,158.22,986.72,416.10,Coca Cola Bottle,3,99.07
+/content/drive/My Drive/Bevarages_Dset/test,test_img11.jpeg,614,1280,1137.48,159.90,1210.63,414.05,Coca Cola Bottle,3,99.05
+/content/drive/My Drive/Bevarages_Dset/test,test_img11.jpeg,614,1280,222.87,175.62,283.10,409.36,7up Bottle,9,98.87
+/content/drive/My Drive/Bevarages_Dset/test,test_img11.jpeg,614,1280,630.99,149.97,696.11,417.23,Pepsi Bottle,4,98.85
+/content/drive/My Drive/Bevarages_Dset/test,test_img11.jpeg,614,1280,771.26,152.58,836.72,412.75,Pepsi Bottle,4,98.80
+/content/drive/My Drive/Bevarages_Dset/test,test_img11.jpeg,614,1280,288.84,152.14,357.78,410.04,7up Bottle,9,98.76
+/content/drive/My Drive/Bevarages_Dset/test,test_img11.jpeg,614,1280,699.04,153.51,767.09,415.30,Pepsi Bottle,4,98.14
+/content/drive/My Drive/Bevarages_Dset/test,test_img11.jpeg,614,1280,359.66,151.45,420.67,412.91,7up Bottle,9,97.38
+/content/drive/My Drive/Bevarages_Dset/test,test_img11.jpeg,614,1280,834.86,472.74,909.38,614.00,Pepsi Bottle,4,96.10
+/content/drive/My Drive/Bevarages_Dset/test,test_img11.jpeg,614,1280,915.98,477.00,991.13,614.00,Pepsi Bottle,4,86.36
+/content/drive/My Drive/Bevarages_Dset/test,test_img11.jpeg,614,1280,680.61,473.27,751.77,614.00,Pepsi Bottle,4,83.43
+/content/drive/My Drive/Bevarages_Dset/test,test_img13.jpg,1440,1072,771.79,1039.87,851.54,1345.40,Sprite Bottle,5,99.81
+/content/drive/My Drive/Bevarages_Dset/test,test_img13.jpg,1440,1072,574.78,180.55,661.47,469.50,Fanta 500ml,0,99.80
+/content/drive/My Drive/Bevarages_Dset/test,test_img13.jpg,1440,1072,260.09,1037.21,343.72,1343.02,Sprite Bottle,5,99.74
+/content/drive/My Drive/Bevarages_Dset/test,test_img13.jpg,1440,1072,385.90,175.92,468.98,466.69,Fanta 500ml,0,99.74
+/content/drive/My Drive/Bevarages_Dset/test,test_img13.jpg,1440,1072,290.01,170.66,377.56,459.40,Fanta 500ml,0,99.73
+/content/drive/My Drive/Bevarages_Dset/test,test_img13.jpg,1440,1072,485.40,183.82,569.17,465.68,Fanta 500ml,0,99.68
+/content/drive/My Drive/Bevarages_Dset/test,test_img13.jpg,1440,1072,173.98,1041.95,258.82,1347.30,Sprite Bottle,5,99.67
+/content/drive/My Drive/Bevarages_Dset/test,test_img13.jpg,1440,1072,934.47,193.93,1020.85,469.90,Fanta 500ml,0,99.64
+/content/drive/My Drive/Bevarages_Dset/test,test_img13.jpg,1440,1072,849.72,190.95,932.22,465.27,Fanta 500ml,0,99.63
+/content/drive/My Drive/Bevarages_Dset/test,test_img13.jpg,1440,1072,683.38,1042.61,774.82,1343.50,Sprite Bottle,5,99.61
+/content/drive/My Drive/Bevarages_Dset/test,test_img13.jpg,1440,1072,591.59,1033.74,677.91,1340.18,Sprite Bottle,5,99.61
+/content/drive/My Drive/Bevarages_Dset/test,test_img13.jpg,1440,1072,427.67,1034.74,508.03,1345.26,Sprite Bottle,5,99.60
+/content/drive/My Drive/Bevarages_Dset/test,test_img13.jpg,1440,1072,761.76,187.74,846.10,465.95,Fanta 500ml,0,99.59
+/content/drive/My Drive/Bevarages_Dset/test,test_img13.jpg,1440,1072,670.27,186.19,762.48,467.27,Fanta 500ml,0,99.55
+/content/drive/My Drive/Bevarages_Dset/test,test_img13.jpg,1440,1072,507.82,1034.28,591.77,1345.47,Sprite Bottle,5,99.53
+/content/drive/My Drive/Bevarages_Dset/test,test_img13.jpg,1440,1072,343.60,1043.91,427.90,1348.00,Sprite Bottle,5,99.52
+/content/drive/My Drive/Bevarages_Dset/test,test_img13.jpg,1440,1072,933.65,1048.38,1018.29,1348.19,Sprite Bottle,5,99.52
+/content/drive/My Drive/Bevarages_Dset/test,test_img13.jpg,1440,1072,193.25,167.70,276.18,460.16,Fanta 500ml,0,99.44
+/content/drive/My Drive/Bevarages_Dset/test,test_img13.jpg,1440,1072,852.10,1040.03,932.98,1341.62,Sprite Bottle,5,99.27
+/content/drive/My Drive/Bevarages_Dset/test,test_img13.jpg,1440,1072,82.84,170.31,187.93,457.29,Fanta 500ml,0,99.20
+/content/drive/My Drive/Bevarages_Dset/test,test_img13.jpg,1440,1072,83.67,1043.73,174.84,1353.01,Sprite Bottle,5,99.19
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,629.30,54.64,727.67,363.12,Dew Bottle,8,99.86
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,656.67,706.54,724.79,953.02,Coca Cola Bottle,3,99.39
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,87.38,710.25,169.79,955.01,Sprite Bottle,5,99.31
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,758.23,416.28,827.72,677.71,Coca Cola Bottle,3,99.26
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,499.85,705.20,573.03,963.51,Coca Cola Bottle,3,99.18
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,729.90,712.26,812.34,959.07,Coca Cola Bottle,3,99.15
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,614.28,418.92,684.28,679.51,Coca Cola Bottle,3,99.11
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,684.93,420.75,754.09,674.21,Coca Cola Bottle,3,98.96
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,257.24,412.60,322.24,683.41,Coca Cola Bottle,3,98.87
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,258.70,708.11,334.59,966.70,Coca Cola Bottle,3,98.63
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,332.34,421.19,394.51,681.83,Coca Cola Bottle,3,98.56
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,398.62,412.11,468.57,682.99,Coca Cola Bottle,3,98.51
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,473.10,409.09,541.23,682.64,Coca Cola Bottle,3,98.50
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,577.14,702.53,652.54,961.91,Coca Cola Bottle,3,98.42
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,735.85,63.35,807.91,362.65,Pepsi Bottle,4,98.34
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,101.37,414.14,174.46,672.06,Coca Cola Bottle,3,98.21
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,806.92,53.99,902.42,359.84,Pepsi Bottle,4,98.19
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,422.31,708.10,493.28,966.63,Coca Cola Bottle,3,98.03
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,26.63,421.52,100.09,678.12,Coca Cola Bottle,3,98.01
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,484.77,69.55,554.60,365.45,Pepsi Bottle,4,97.92
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,407.11,67.26,482.09,364.38,Pepsi Bottle,4,97.52
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,551.40,80.43,618.38,364.33,Pepsi Bottle,4,97.50
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,543.97,403.65,610.57,685.46,Coca Cola Bottle,3,97.40
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,342.34,706.62,413.05,968.64,Coca Cola Bottle,3,97.19
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,179.02,721.15,255.32,961.52,Coca Cola Bottle,3,93.06
+/content/drive/My Drive/Bevarages_Dset/test,test_img10.jpeg,1280,960,180.86,422.95,251.16,677.45,Coca Cola Bottle,3,90.75
+/content/drive/My Drive/Bevarages_Dset/test,test_img9.jpg,721,960,22.67,5.34,252.45,372.52,Fanta Carton-Bottle,6,99.53
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,496.98,518.19,528.00,753.02,Fanta 1.5L,1,99.82
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,15.93,11.74,75.15,247.28,Coca Cola Bottle,3,99.69
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,480.64,268.53,528.00,508.30,Fanta 1.5L,1,99.68
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,367.88,517.22,429.38,742.63,Fanta 1.5L,1,99.60
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,346.67,271.57,411.70,508.73,Fanta 1.5L,1,99.58
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,359.74,760.12,420.14,960.00,Fanta 1.5L,1,99.57
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,485.31,760.47,528.00,957.89,Fanta 1.5L,1,99.56
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,291.06,5.05,358.85,246.03,Coca Cola Bottle,3,99.49
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,429.83,519.42,492.90,745.97,Fanta 1.5L,1,99.48
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,153.97,16.04,217.15,242.74,Coca Cola Bottle,3,99.47
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,431.18,3.26,497.48,245.94,Fanta 1.5L,1,99.45
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,283.19,278.05,342.37,501.96,Coca Cola Bottle,3,99.42
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,422.28,762.67,482.30,960.00,Fanta 1.5L,1,99.42
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,14.87,277.92,73.57,504.13,Coca Cola Bottle,3,99.40
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,410.86,273.84,478.47,508.03,Fanta 1.5L,1,99.36
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,84.70,9.54,152.72,250.50,Coca Cola Bottle,3,99.36
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,148.12,286.26,215.45,502.68,Coca Cola Bottle,3,99.32
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,0.48,523.50,47.34,743.87,Coca Cola Bottle,3,99.29
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,220.15,281.91,278.78,497.28,Coca Cola Bottle,3,99.28
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,82.73,282.73,142.77,502.44,Coca Cola Bottle,3,99.24
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,53.69,521.90,107.43,742.99,Coca Cola Bottle,3,99.24
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,114.71,522.54,177.25,746.53,Coca Cola Bottle,3,99.15
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,357.52,2.92,430.06,246.14,Fanta 1.5L,1,99.12
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,222.25,11.91,287.56,242.77,Coca Cola Bottle,3,99.01
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,497.52,0.00,528.00,256.54,Fanta 1.5L,1,98.93
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,238.59,762.49,294.78,960.00,Coca Cola Bottle,3,98.61
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,110.97,763.03,167.20,956.98,Coca Cola Bottle,3,98.56
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,0.36,766.04,44.40,956.80,Coca Cola Bottle,3,98.49
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,51.26,764.51,105.87,954.71,Coca Cola Bottle,3,98.26
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,175.79,761.72,231.57,959.87,Coca Cola Bottle,3,98.10
+/content/drive/My Drive/Bevarages_Dset/test,test_img12.jpg,960,528,300.44,764.11,357.50,960.00,Coca Cola Bottle,3,97.26
+/content/drive/My Drive/Bevarages_Dset/test,test_img14.jpeg,1280,614,1.09,398.70,122.01,853.92,Marinda Bottle,10,99.64
+/content/drive/My Drive/Bevarages_Dset/test,test_img14.jpeg,1280,614,115.51,397.18,238.33,866.15,Marinda Bottle,10,99.47
+/content/drive/My Drive/Bevarages_Dset/test,test_img14.jpeg,1280,614,353.26,381.91,474.08,863.16,Pepsi Bottle,4,99.42
+/content/drive/My Drive/Bevarages_Dset/test,test_img14.jpeg,1280,614,478.33,377.19,595.81,861.18,Pepsi Bottle,4,99.39
+/content/drive/My Drive/Bevarages_Dset/test,test_img14.jpeg,1280,614,201.11,946.23,322.50,1280.00,Marinda Bottle,10,99.38
+/content/drive/My Drive/Bevarages_Dset/test,test_img14.jpeg,1280,614,322.34,930.17,453.39,1279.71,Pepsi Bottle,4,99.26
+/content/drive/My Drive/Bevarages_Dset/test,test_img14.jpeg,1280,614,234.72,396.46,347.96,858.69,Pepsi Bottle,4,98.69
+/content/drive/My Drive/Bevarages_Dset/test,test_img14.jpeg,1280,614,76.09,942.64,192.18,1269.93,Marinda Bottle,10,98.57
+/content/drive/My Drive/Bevarages_Dset/test,test_img14.jpeg,1280,614,449.45,929.58,584.99,1279.14,Pepsi Bottle,4,98.56
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,648.69,205.04,708.06,415.44,Dew Bottle,8,99.91
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,348.03,207.25,404.00,414.48,Dew Bottle,8,99.86
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,464.91,208.37,523.30,416.85,Dew Bottle,8,99.86
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,290.35,205.59,347.50,410.54,Dew Bottle,8,99.85
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,593.05,204.47,647.76,415.24,Dew Bottle,8,99.81
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,2.06,421.74,53.13,615.15,Fanta 1.5L,1,99.68
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,2.93,0.00,60.24,185.61,Coca Cola Bottle,3,99.64
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,105.62,209.37,166.32,401.16,Sprite Bottle,5,99.64
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,33.93,204.96,95.43,397.17,Sprite Bottle,5,99.64
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,395.52,639.70,444.83,811.67,7up Bottle,9,99.63
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,55.23,423.59,108.33,614.86,Fanta 1.5L,1,99.59
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,408.91,211.45,464.22,416.33,Dew Bottle,8,99.58
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,107.94,421.92,167.34,618.74,Fanta 1.5L,1,99.58
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,65.69,0.00,116.44,182.15,Coca Cola Bottle,3,99.55
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,230.83,206.63,288.64,411.58,Dew Bottle,8,99.55
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,529.89,210.93,584.76,416.55,Dew Bottle,8,99.55
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,433.88,423.52,487.96,617.81,Marinda Bottle,10,99.54
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,286.69,639.00,335.41,807.83,7up Bottle,9,99.53
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,621.66,0.00,674.24,191.78,Pepsi Bottle,4,99.52
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,563.92,644.75,612.02,818.44,7up Bottle,9,99.52
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,649.43,428.69,706.85,621.95,Marinda Bottle,10,99.49
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,274.69,424.56,325.25,616.94,Marinda Bottle,10,99.47
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,543.37,428.20,597.12,624.52,Marinda Bottle,10,99.46
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,118.22,0.00,178.91,183.36,Pepsi Bottle,4,99.44
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,618.94,648.68,674.99,820.49,7up Bottle,9,99.44
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,180.81,0.00,234.12,186.53,Pepsi Bottle,4,99.43
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,506.33,636.66,557.76,815.02,7up Bottle,9,99.39
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,236.22,0.00,291.99,187.85,Pepsi Bottle,4,99.39
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,488.47,426.33,544.63,620.74,Marinda Bottle,10,99.38
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,169.89,202.95,227.39,409.46,Dew Bottle,8,99.38
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,377.73,423.83,434.08,617.23,Marinda Bottle,10,99.38
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,293.16,0.00,348.36,188.91,Pepsi Bottle,4,99.34
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,348.41,0.00,403.62,187.32,Pepsi Bottle,4,99.32
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,512.67,0.00,564.37,189.53,Pepsi Bottle,4,99.31
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,230.93,635.62,278.98,804.60,7up Bottle,9,99.25
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,324.51,429.07,376.73,615.10,Marinda Bottle,10,99.22
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,595.26,426.42,651.38,622.31,Marinda Bottle,10,99.19
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,168.24,420.47,222.58,615.27,Marinda Bottle,10,99.17
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,339.62,639.77,390.01,805.98,7up Bottle,9,99.15
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,449.89,634.78,501.14,813.35,7up Bottle,9,99.10
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,565.83,0.00,620.93,190.26,Pepsi Bottle,4,99.04
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,221.93,421.57,277.61,613.37,Marinda Bottle,10,99.04
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,176.66,635.10,227.50,798.13,7up Bottle,9,98.77
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,401.71,0.00,458.36,188.06,Pepsi Bottle,4,98.72
+/content/drive/My Drive/Bevarages_Dset/test,test_img15.jpg,960,718,456.41,0.00,512.92,187.91,Pepsi Bottle,4,98.43
